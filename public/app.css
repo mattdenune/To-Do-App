@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: #ecf0f1;
+    background: #85DCBb;
 }
 
 /*****************************HEADER STYLES*****************************/
@@ -14,7 +14,8 @@ header h1 {
     font-size: 64px;
     font-weight: 300;
     margin: 80px 0 25px;
-    color: #2c3e50;
+    color: #e27d60;
+    text-shadow: 2px 2px #41b3a3
 }
 
 header h1 span {
@@ -22,8 +23,9 @@ header h1 span {
 }
 
 header h2 {
-    color: #bdc3c7;
-    font-weight: 300;
+    color: #e8a87c;
+    text-shadow: 2px 2px #41b3a3; 
+    font-weight: 600;
 }
 
 /*****************************FORM STYLES*****************************/
